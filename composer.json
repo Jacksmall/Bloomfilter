@@ -1,0 +1,19 @@
+{
+    "name": "jacksmall/bloomfilter",
+    "description": "laravel bloom filter",
+    "require": {
+        "illuminate/support": "^5.8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jacksmall\\Bloomfilter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chenkuan",
+            "email": "812254315@qq.com"
+        }
+    ]
+}
